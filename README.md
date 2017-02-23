@@ -44,3 +44,5 @@ utils.py
 Run: python3 dbn_with_confusion_matrix.py
 
 For demo, run: python3 dbn_10percent_sample.py
+
+Theano installation: http://deeplearning.net/software/theano/install.html#install
